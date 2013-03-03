@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2013 Eric F. Palmer
+ * See license/LICENSE.txt for the applicable software license
+ */
+
 package theBasics.ifElse
 import kotlin.test.assertEquals
 fun main (args : Array<String>){

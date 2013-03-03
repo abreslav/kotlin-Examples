@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2013. Eric F. Palmer
+ * Copyright (c) 2013 Eric F. Palmer
  * See license/LICENSE.txt for the applicable software license
  */
 
