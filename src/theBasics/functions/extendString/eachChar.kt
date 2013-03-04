@@ -4,7 +4,7 @@
  */
 
 /*
- * This is am example of using a higher level function to create a closure.
+ * This is am example of using a higher order function to create a closure.
  * This example shows iterating over a string and returning each char into the closure
  *
  * this is powerful stuff.  I had to read some of the kotlin source code to see how this might be
