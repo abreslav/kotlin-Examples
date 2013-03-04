@@ -17,7 +17,7 @@ package theBasics.functions.extendString.eachChar
 import java.util.ArrayList
 
 fun String.eachChar(closure : (aChar : Char) -> Unit): Unit {
-    var result = ArrayList<Char>()
+    val result = ArrayList<Char>()
     val theStringAsChars = this.toCharArray()
     for (i in 0..this.length()-1)
         closure(theStringAsChars[i])
