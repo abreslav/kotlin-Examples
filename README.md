@@ -11,10 +11,10 @@ Our hope is that these examples will help us all bootstrap our Kotlin skills.
 
 Dependencies
 ============
-- Kotlin M5 (Kotlin API (0.1-SNAPSHOT))
+- Latest Kotlin (Kotlin API (0.1-SNAPSHOT))
 - IntelliJ 12.x 
 
-We expect that some examples may break as Kotlin matures from M5 to later versions. If you notice something is broken just let us know.
+The examples have been checked with Kotlin M5.1 (0.5.162). We expect that some examples may break as Kotlin matures to later versions. If you notice something is broken just let us know.
 
 Pull Requests
 =============
